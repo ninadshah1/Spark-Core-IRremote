@@ -1,0 +1,7 @@
+{
+  "name": "Spark-Core-IRremote",
+  "author": "Gaspard van Koningsveld",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "Spark Library to work with IRremote"
+}
